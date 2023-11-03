@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 926f52faa4661f1498dd8fe8c31348d6
+timeCreated: 1521409490
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ApocalypticPharmacy01_Ceiling
+    100004: ApocalypticPharmacy01_Door01DoorL
+    100006: ApocalypticPharmacy01_Door01DoorLGlass
+    100008: ApocalypticPharmacy01_Door01DoorR
+    100010: ApocalypticPharmacy01_Door01DoorRGlass
+    100012: ApocalypticPharmacy01_Door01Frame
+    100014: ApocalypticPharmacy01_Door01FrameGlassL
+    100016: ApocalypticPharmacy01_Door01FrameGlassR
+    100018: ApocalypticPharmacy01_Door02Door
+    100020: ApocalypticPharmacy01_Door02Frame
+    100022: ApocalypticPharmacy01_Door02Glass
+    100024: ApocalypticPharmacy01_Door02HandleExt
+    100026: ApocalypticPharmacy01_Door02HandleInt
+    100028: ApocalypticPharmacy01_Floor
+    100030: ApocalypticPharmacy01_Front
+    100032: ApocalypticPharmacy01_FrontElements
+    100034: ApocalypticPharmacy01_Roof
+    100036: ApocalypticPharmacy01_WallsExt
+    100038: ApocalypticPharmacy01_WallsInt
+    400000: //RootNode
+    400002: ApocalypticPharmacy01_Ceiling
+    400004: ApocalypticPharmacy01_Door01DoorL
+    400006: ApocalypticPharmacy01_Door01DoorLGlass
+    400008: ApocalypticPharmacy01_Door01DoorR
+    400010: ApocalypticPharmacy01_Door01DoorRGlass
+    400012: ApocalypticPharmacy01_Door01Frame
+    400014: ApocalypticPharmacy01_Door01FrameGlassL
+    400016: ApocalypticPharmacy01_Door01FrameGlassR
+    400018: ApocalypticPharmacy01_Door02Door
+    400020: ApocalypticPharmacy01_Door02Frame
+    400022: ApocalypticPharmacy01_Door02Glass
+    400024: ApocalypticPharmacy01_Door02HandleExt
+    400026: ApocalypticPharmacy01_Door02HandleInt
+    400028: ApocalypticPharmacy01_Floor
+    400030: ApocalypticPharmacy01_Front
+    400032: ApocalypticPharmacy01_FrontElements
+    400034: ApocalypticPharmacy01_Roof
+    400036: ApocalypticPharmacy01_WallsExt
+    400038: ApocalypticPharmacy01_WallsInt
+    2100000: ApocalypticPharmacy01_Walls
+    2100002: ApocalypticPharmacy01_Doors
+    2100004: DirtyGlassMat
+    2100006: ApocalypticPharmacy01_Props2
+    2100008: ApocalypticPharmacy01_Front
+    2300000: ApocalypticPharmacy01_Ceiling
+    2300002: ApocalypticPharmacy01_Door01DoorL
+    2300004: ApocalypticPharmacy01_Door01DoorLGlass
+    2300006: ApocalypticPharmacy01_Door01DoorR
+    2300008: ApocalypticPharmacy01_Door01DoorRGlass
+    2300010: ApocalypticPharmacy01_Door01Frame
+    2300012: ApocalypticPharmacy01_Door01FrameGlassL
+    2300014: ApocalypticPharmacy01_Door01FrameGlassR
+    2300016: ApocalypticPharmacy01_Door02Door
+    2300018: ApocalypticPharmacy01_Door02Frame
+    2300020: ApocalypticPharmacy01_Door02Glass
+    2300022: ApocalypticPharmacy01_Door02HandleExt
+    2300024: ApocalypticPharmacy01_Door02HandleInt
+    2300026: ApocalypticPharmacy01_Floor
+    2300028: ApocalypticPharmacy01_Front
+    2300030: ApocalypticPharmacy01_FrontElements
+    2300032: ApocalypticPharmacy01_Roof
+    2300034: ApocalypticPharmacy01_WallsExt
+    2300036: ApocalypticPharmacy01_WallsInt
+    3300000: ApocalypticPharmacy01_Ceiling
+    3300002: ApocalypticPharmacy01_Door01DoorL
+    3300004: ApocalypticPharmacy01_Door01DoorLGlass
+    3300006: ApocalypticPharmacy01_Door01DoorR
+    3300008: ApocalypticPharmacy01_Door01DoorRGlass
+    3300010: ApocalypticPharmacy01_Door01Frame
+    3300012: ApocalypticPharmacy01_Door01FrameGlassL
+    3300014: ApocalypticPharmacy01_Door01FrameGlassR
+    3300016: ApocalypticPharmacy01_Door02Door
+    3300018: ApocalypticPharmacy01_Door02Frame
+    3300020: ApocalypticPharmacy01_Door02Glass
+    3300022: ApocalypticPharmacy01_Door02HandleExt
+    3300024: ApocalypticPharmacy01_Door02HandleInt
+    3300026: ApocalypticPharmacy01_Floor
+    3300028: ApocalypticPharmacy01_Front
+    3300030: ApocalypticPharmacy01_FrontElements
+    3300032: ApocalypticPharmacy01_Roof
+    3300034: ApocalypticPharmacy01_WallsExt
+    3300036: ApocalypticPharmacy01_WallsInt
+    4300000: ApocalypticPharmacy01_WallsExt
+    4300002: ApocalypticPharmacy01_Door02Frame
+    4300004: ApocalypticPharmacy01_Door02Door
+    4300006: ApocalypticPharmacy01_Door02Glass
+    4300008: ApocalypticPharmacy01_Door02HandleExt
+    4300010: ApocalypticPharmacy01_Door02HandleInt
+    4300012: ApocalypticPharmacy01_Ceiling
+    4300014: ApocalypticPharmacy01_Roof
+    4300016: ApocalypticPharmacy01_Floor
+    4300018: ApocalypticPharmacy01_WallsInt
+    4300020: ApocalypticPharmacy01_Door01Frame
+    4300022: ApocalypticPharmacy01_Door01DoorL
+    4300024: ApocalypticPharmacy01_Door01DoorLGlass
+    4300026: ApocalypticPharmacy01_Door01DoorR
+    4300028: ApocalypticPharmacy01_Door01DoorRGlass
+    4300030: ApocalypticPharmacy01_Door01FrameGlassR
+    4300032: ApocalypticPharmacy01_Door01FrameGlassL
+    4300034: ApocalypticPharmacy01_Front
+    4300036: ApocalypticPharmacy01_FrontElements
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApocalypticPharmacy01_Doors
+    second: {fileID: 2100000, guid: c3d23b30f4d2312479d9f34188d96c94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApocalypticPharmacy01_Front
+    second: {fileID: 2100000, guid: 0085a0f1c064ced4badeb96ae163abca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApocalypticPharmacy01_Props2
+    second: {fileID: 2100000, guid: a6ec633470838d14d9e3159720782205, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApocalypticPharmacy01_Walls
+    second: {fileID: 2100000, guid: 8927b73af15b6ba4885bed7463ee75ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DirtyGlassMat
+    second: {fileID: 2100000, guid: 9ec0b6c6a444bdb448479a6ce54682f9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
