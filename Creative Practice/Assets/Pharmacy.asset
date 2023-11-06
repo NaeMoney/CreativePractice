@@ -25,4 +25,10 @@ MonoBehaviour:
     completeCount: 0
     objectiveID: 1
     localeKey: 
+  - shortName: EnteredAsylum
+    eventID: 3
+    objectiveText: "Investigate the surrounding area for \nanything strange..."
+    completeCount: 0
+    objectiveID: 2
+    localeKey: 
   enableLocalization: 1
