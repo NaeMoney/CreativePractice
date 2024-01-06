@@ -15,7 +15,7 @@ MonoBehaviour:
   Objectives:
   - shortName: Explore Pharmacy
     eventID: 1
-    objectiveText: Find a torch and explore pharmacy for anything left behind
+    objectiveText: Explore pharmacy for anything left behind
     completeCount: 0
     objectiveID: 0
     localeKey: 
